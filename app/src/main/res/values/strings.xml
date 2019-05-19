@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">aripratom Apps</string>
+    <string name="title_profile">Profil</string>
+    <string name="title_kontak">Kontak</string>
+    <string name="title_friends">Teman</string>
+    <string name="title_about">Tentang</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nim">NIM</string>
+    <string name="_10116323">10116323</string>
+    <string name="kelas">Kelas</string>
+    <string name="if_8">IF - 8</string>
+    <string name="judul_tentang_saya">Tentang Saya</string>
+    <string name="tentang_saya">Saya adalah mahasiswa yang kini sedang menjalani semester 6 di Universitas Komputer Indonesia, Bandung.
+Dan saya sangat memiliki minat dalam dunia IT, saya kerap kali mempelajari hal-hal yang
+berkaitan dengan membangun aplikasi berbasis android.
+Selain itu, saya juga bergelut dalam bidang musik. Saya memiliki banyak pengalaman dalam mengisi acara
+untuk bermain alat musik seperti gitar, bass, maupun drum.
+Tidak hanya dalam bidang IT dan musik, olahraga juga merupakan hal yang saya minati disaat mengisi waktu senggang.
+Sepak bola, berenang adalah cabang olahraga yang paling saya minati dari cabang olahraga lainnya.
+Dalam hal sepak bola, saya sangat mengikuti setiap perkembangan PERSIB Bandung sejak duduk di bangku SD.</string>
+    <string name="aria_pratomo">ARIA PRATOMO</string>
+    <string name="telp">085779775997</string>
+    <string name="email">ariapratomo@gmail.com</string>
+    <string name="line">aripratom</string>
+    <string name="wa">081320009730</string>
+    <string name="twitter">aripratom</string>
+    <string name="ig">aripratom</string>
+    <string name="ari_abdul_majid">Ari Abdul Majid </string>
+    <string name="chandra_septian">Chandra Septian </string>
+    <string name="aditia_renaldi">Aditia Renaldi </string>
+    <string name="muhammad_habib">Muhammad Habib </string>
+    <string name="muhammad_ilyas">Muhammad Ilyas</string>
+    <string name="luthfi">Luthfi Alfarisi</string>
+    <string name="data_received">Item Diterima</string>
+    <string name="about_aplikasi">
+        Aplikasi ini bernama aripratomApp karena sesuai dengan akronim dari pembuatnya yaitu Aria Pratomo.
+        \nAplikasi ini dibuat pada tanggal 14 Mei 2019 hingga 19 Mei 2019.
+        \nAplikasi ini memuat tentang data diri pemilik, dan informasi dari kontak kerabat terdekat untuk mempermudah komunikasi via smartphone.
+        \nUntuk kedepannya aplikasi ini akan terus dikembangkan agar lebih baik dan berguna lagi bagi penggunanya.
+    </string>
+    <string name="tujuan">
+        Aplikasi ini dibuat untuk memenuhi UTS Semester 6 Aplikasi Komputasi Bergerak.
+    </string>
+    <string name="rica_rahmawati">Rica Rahmawati</string>
+    <string name="aria_pratomo_fb">Aria Pratomo</string>
+</resources>
